@@ -1,7 +1,7 @@
 [project]
 name = "square-appointments-mcp"
 version = "1.1.0"
-description = "Connect Square Appointments to Claude Code, ChatGPT and any AI agent through Cotlet.dev, a hosted MCP server. No Square Appointments API key needed."
+description = "Connect Square Appointments to ChatGPT, Claude, Codex and Claude Code through Cotlet.dev, a hosted MCP server. No Square Appointments API key needed."
 readme = "README.md"
 license = "Elastic-2.0"
 license-files = ["LICENSE"]

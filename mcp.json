@@ -7,8 +7,10 @@
       }
     },
     "square-appointments": {
-      "command": "uvx",
-      "args": ["square-appointments-mcp"],
+      "command": "python3",
+      "args": [
+        "/absolute/path/to/square-appointments-mcp/square_appointments_agent.py"
+      ],
       "env": {
         "COTLET_API_KEY": "${COTLET_API_KEY}"
       }
